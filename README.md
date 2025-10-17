@@ -1,0 +1,1 @@
+# Qotes_app_priv_policy
